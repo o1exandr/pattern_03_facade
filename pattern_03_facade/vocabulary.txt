@@ -1,15 +1,10 @@
-
-qwert
-tyu
-Cat
-кiт
-Car
-авто
-dog
-pes
-Cat
-кiт
-Car
-авто
-ty
-ui
+cat кiт
+car авто
+book книга
+pen ручка
+ten десять
+door дверi
+window вiкно
+table стiл
+mouse миш
+clock годинник
